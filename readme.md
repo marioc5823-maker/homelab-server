@@ -3,8 +3,7 @@
 A personal homelab environment built and managed as production-grade 
 infrastructure. This repository documents the full architecture, 
 configuration, and automation behind a self-hosted private cloud running 
-across 5 devices — managed entirely through Ansible for repeatable, 
-version-controlled deployments.
+across 5 node — managed entirely through Ansible.
 
 
 **Architecture Overview:**
@@ -26,6 +25,6 @@ Raspberry Pi 4 B | RPIGear4    |                            | Raspberry Pi OS | 
 **Lessons Learned:**
 
 This project has overall helped me understand being in the positon of a system administrator. Since starting 
-this project, my linux skills and management have 
+this project, my linux s 
 
 Demo/Screenshots:
