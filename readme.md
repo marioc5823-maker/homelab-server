@@ -19,12 +19,29 @@ Raspberry Pi 4 B | RPIGear4    |                            | Raspberry Pi OS | 
 **Services:**
 
 
+-Pi-Hole
+-Nextcloud
+-PiVPN
+-WireGuard
+-Ansible
+-Docker
+-
+
 **Tech Stack:**
+| Category        | Technology                          |
+|-----------------|-------------------------------------|
+| Automation      | Ansible                             |
+| OS (x86)        | Ubuntu Desktop 24.04, Ubuntu Server 24.04 |
+| OS (ARM)        | Raspberry Pi OS (Bookworm)          |
+| Hardware        | Ryzen x86 machines, Raspberry Pi 3B+ & 4B |
+| DNS / Filtering | Pi-hole                             |
+| VPN             | PiVPN (WireGuard)                   |
+| Cloud Storage   | Nextcloud                           |
+| Secret Mgmt     | Ansible Vault                       |
+| Version Control | Git / GitHub                        |
 
 
 **Lessons Learned:**
 
-This project has overall helped me understand being in the positon of a system administrator. Since starting 
-this project, my linux s 
 
 Demo/Screenshots:
