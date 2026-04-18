@@ -1,6 +1,6 @@
 **Introduction:**
 
-A personal homelab environment built and managed as production-grade 
+A continuously growing personal homelab environment built and managed as production-grade 
 infrastructure. This repository documents the full architecture, 
 configuration, and automation behind a self-hosted private cloud running 
 across 5 node — managed entirely through Ansible.
