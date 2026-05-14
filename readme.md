@@ -41,7 +41,8 @@ Raspberry Pi 4 B | RPIGear4    |                            | Raspberry Pi OS | 
 | Version Control | Git / GitHub                        |
 
 
-**Lessons Learned:**
 
+**Demo/Screenshots**
+<img width="1423" height="625" alt="Screenshot 2026-05-13 at 10 21 37 PM" src="https://github.com/user-attachments/assets/fd8aa2dd-0c35-4318-b2a3-20cd05e5d9dd" />
 
-Demo/Screenshots:
+**Self Reflection:**
